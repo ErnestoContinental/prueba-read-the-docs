@@ -1,7 +1,7 @@
-Welcome to Lumache's documentation!
+Bienvenidos a la documentación de Continental Assist
 ===================================
 
-Lumache has its documentation hosted on Read the Docs.
+En esta sección verán la documentación de este proyecto.
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
