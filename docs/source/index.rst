@@ -1,7 +1,7 @@
 Bienvenidos a la documentación de Continental Assist
 ===================================
 
-En esta sección verán la documentación de este proyecto.
+En esta sección se mostrará toda la información relacionada al proyecto 
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
